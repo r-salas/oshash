@@ -33,6 +33,20 @@ $ oshash /path/to/video.mp4
 OSHash (/path/to/video.mp4) = d315edebf53a4af3
 ```
 
+## Comparison
+A short comparison with other algorithms:
+
+320p video (61.7 MB)       |  1080p video (339.4 MB)
+:-------------------------:|:-------------------------:
+![](/media/big_buck_bunny_320p_comparison.png)  |  ![](/media/big_buck_bunny_1080p_comparison.png)
+
+You can create a comparison for any file with the following command:
+```console
+$ python3 scripts/compare_algorithms.py <file_path>
+```
+
+If you want to view graphics, make sure you have `matplotlib` installed.
+
 ## How It Works?
 
 In pseudo-code, the hash is computed in the following way:
