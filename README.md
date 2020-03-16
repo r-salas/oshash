@@ -38,7 +38,7 @@ A short comparison with other algorithms:
 
 320p video (61.7 MB)       |  1080p video (339.4 MB)
 :-------------------------:|:-------------------------:
-![](/media/big_buck_bunny_320p_comparison.png)  |  ![](/media/big_buck_bunny_1080p_comparison.png)
+![](https://raw.githubusercontent.com/r-salas/oshash/master/media/big_buck_bunny_320p_comparison.png)  |  ![](https://raw.githubusercontent.com/r-salas/oshash/master/media/big_buck_bunny_1080p_comparison.png)
 
 You can create a comparison for any file with the following command:
 ```console
