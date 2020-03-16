@@ -1,0 +1,2 @@
+# oshash
+OpenSubtitles Hash implementation
