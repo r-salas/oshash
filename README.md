@@ -34,7 +34,7 @@ OSHash (/path/to/video.mp4) = d315edebf53a4af3
 ```
 
 ## Comparison
-A short comparison with other algorithms:
+Below we can see a small graph comparing the hashing speed (in seconds) of OSHash with other algorithms for two different files:
 
 320p video (61.7 MB)       |  1080p video (339.4 MB)
 :-------------------------:|:-------------------------:
